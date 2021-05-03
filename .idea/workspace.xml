@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74b1e65-47d6-4c0a-95a8-0d4c4e3dcc88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Scripts/gh-pages-deploy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -40,6 +42,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1s02oRRMBy2Lbx3dIjWtO4LCNrj" />
   <component name="ProjectLevelVcsManager">
@@ -67,6 +72,7 @@
       <workItem from="1620075650879" duration="61000" />
       <workItem from="1620075759562" duration="400000" />
       <workItem from="1620078417846" duration="66000" />
+      <workItem from="1620080215235" duration="247000" />
     </task>
     <servers />
   </component>
@@ -83,6 +89,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
