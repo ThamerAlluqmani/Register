@@ -51,13 +51,13 @@ export default {
 <style scoped>
 .error{
   color: red;
-  font-size: 11px;
+  font-size: 15pt;
 }
 input{
-  padding: 5px;
+  padding: 10px;
   border: 1px solid lightgray;
   border-radius: 5px;
-  margin: 5px 0;
+  margin: 10pt 0;
 }
 label{
   color: white;
