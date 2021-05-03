@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview",
-    "deploy": "sh deploy.sh"
+    "serve": "vite preview"
   },
   "dependencies": {
     "vue": "^3.0.5"
@@ -13,7 +12,6 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.2",
     "@vue/compiler-sfc": "^3.0.5",
-    "vite": "^2.2.3",
-    "execa": "latest"
+    "vite": "^2.2.3"
   }
 }
