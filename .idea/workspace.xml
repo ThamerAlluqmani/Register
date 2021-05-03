@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b74b1e65-47d6-4c0a-95a8-0d4c4e3dcc88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/gh-pages-deploy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +73,7 @@
       <workItem from="1620075650879" duration="61000" />
       <workItem from="1620075759562" duration="400000" />
       <workItem from="1620078417846" duration="66000" />
-      <workItem from="1620080215235" duration="460000" />
+      <workItem from="1620080215235" duration="793000" />
     </task>
     <servers />
   </component>
