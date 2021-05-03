@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c6b24f2-7c75-4f9f-848d-d44d5ef0f7d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/CustomButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomInput.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CustomButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CustomButton.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619995688391</updated>
       <workItem from="1619995689691" duration="1674000" />
+      <workItem from="1620004420652" duration="13901000" />
     </task>
     <servers />
   </component>
@@ -80,5 +90,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1620014793280">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="303" y="227" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1620014793280" />
   </component>
 </project>

@@ -19,4 +19,13 @@ name: "CustomButton",
 button:disabled{
   opacity:.5 ;
 }
+button{
+  width: 100%;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+button:hover{
+  filter: brightness(150%);
+}
 </style>
